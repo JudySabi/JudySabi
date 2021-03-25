@@ -1,6 +1,6 @@
-### I SEARCH JOB OF MY DREAMS ! 
+### SEARCHING JOB ! 
 
-- 💻 Front-End JavaScript and React developer
+- 💻 Developer Front-End with JavaScript, React JS and Native
 
 - 👯 I’m looking to collaborate with @amandine16
 
