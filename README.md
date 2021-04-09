@@ -1,3 +1,5 @@
+![juliemahe](ban.png)
+
 ### SEARCHING JOB ! 
 
 - 💻 Developer Front-End with JavaScript, React JS and Native
