@@ -1,4 +1,4 @@
-![juliemahe](ban.png)
+![juliemahe](hero.png)
 
 ### SEARCHING JOB ! 
 
