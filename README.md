@@ -1,8 +1,6 @@
 ![juliemahe](hero.png)
 
-### SEARCHING JOB ! 
-
-- 💻 Developer Front-End with JavaScript, React JS and Native
+- 💻 Developer Front-End with JavaScript, React JS and Native, VueJs
 
 - 👯 I’m looking to collaborate with [Amandine Delavoie](https://github.com/amandine16)
 
